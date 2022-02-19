@@ -110,7 +110,7 @@ def integer_sqrt_2_gcd(m: IntegerSqrt2, n: IntegerSqrt2) -> IntegerSqrt2:
 
 
 MAX_TESTING_INT = 1000
-NUM_TESTS = 1000
+NUM_TESTS = 10
 
 
 def main() -> int:
